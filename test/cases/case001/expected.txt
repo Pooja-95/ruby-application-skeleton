@@ -1,0 +1,529 @@
+
+
+
+Page: 4 -- Table: 1 of 1
+1,"Election of Directors: James Bell, Tim Cook, Al Gore, Alex Gorsky, Andrea Jung, Art Levinson, Monica Lozano, Ron Sugar, and Sue Wagner",FOR each of the nominees
+2,Ratification of Appointment of Independent Registered Public Accounting Firm,FOR
+3,Advisory Vote to Approve Executive Compensation,FOR
+4,Approval of the Apple Inc. 2022 Employee Stock Plan,FOR
+5-10,Shareholder Proposals if properly presented,AGAINST
+"",And such other business as may properly come before the Annual,""
+
+
+
+Page: 5 -- Table: 1 of 3
+Other Information,99
+Audit and Finance Committee Report,100
+Security Ownership of Certain Beneficial Owners and Management,101
+Equity Compensation Plan Information,103
+General Information,104
+Annex A - Apple Inc. 2022 Employee Stock Plan,A-1
+
+
+
+
+Page: 5 -- Table: 2 of 3
+Proposals,59
+Proposal No. 1 - Election of Directors,60
+Proposal No. 2 - Ratification of Appointment of Independent Registered Public Accounting Firm,61
+Proposal No. 3 - Advisory Vote to Approve Executive Compensation,63
+Proposal No. 4 - Approval of the Apple Inc. 2022 Employee Stock Plan,64
+Proposal No. 5 - Shareholder Proposal,72
+Proposal No. 6 - Shareholder Proposal,75
+Proposal No. 7 - Shareholder Proposal,79
+Proposal No. 8 - Shareholder Proposal,84
+Proposal No. 9 - Shareholder Proposal,88
+Proposal No. 10 - Shareholder Proposal,94
+
+
+
+
+Page: 5 -- Table: 3 of 3
+Proxy Statement Summary,1
+Corporate Governance,9
+Role of the Board of Directors,10
+Annual Board and Committee Self-Evaluations,12
+Corporate Governance Policies and Practices,13
+Board Oversight,14
+Transparency and Engagement,18
+Directors,21
+Board Composition and Refreshment,22
+Nominees for Election,23
+Compensation of Directors,29
+Executive Officers,33
+Executive Compensation,35
+Compensation Discussion and Analysis,36
+Compensation Committee Report,49
+Executive Compensation Tables,50
+
+
+
+
+Page: 7 -- Table: 1 of 1
+Accessibility,We create the most accessible products and services in the world - because technology for everyone should meet everyone's needs.
+Education,We believe education is a great equalizing force and a powerful source of opportunity for all.
+Environment,"We believe doing right by the planet is good for people, for communities, and for business."
+Inclusion & Diversity,We're committed to making our company more inclusive and diverse and the world more just.
+Privacy,We believe privacy is a fundamental human right.
+Supplier Responsibility,"We set the highest standards for labor and human rights, working across our global supply chain to expand opportunity and empower people."
+
+
+
+
+Page: 9 -- Table: 1 of 2
+Americas,Europe,Greater China,Japan,Rest of APAC
+$153.3B,$89.3B,$68.4B,$28.5B,$26.4B
++23% Y/Y,+30% Y/Y,+70% Y/Y,+33% Y/Y,+35% Y/Y
+
+
+
+
+Page: 9 -- Table: 2 of 2
+iPhone,Mac,iPad,"Wearables, Home & Accessories",Services
+$192.0B +39% Y/Y,$35.2B +23% Y/Y,$31.9B +34% Y/Y,$38.4B +25% Y/Y,$68.4B +27% Y/Y
+
+
+
+Page: 10 -- Table: 1 of 1
+Effective Design,"Competitive compensation commensurate with Apple's size, performance, and profitability Clear guiding principles and sound compensation policies and practices Aligned with shareholders' interests"
+Pay for Performance,Majority of our named executive officers' compensation is performance-based Short-term cash incentive is tied to rigorous annual net sales and operating income goals with a modifier based on Apple values and key community initiatives Performance-based equity awards are earned at the target level only if our total shareholder return is above the 55th percentile relative to other S&P 500 companies for the applicable performance period
+
+
+
+Page: 11 -- Table: 1 of 1
+Name,"",Independent,Age,Director Since,Audit Committee,Compensation Committee,Nominating Committee
+Art Levinson Chair,"Founder and CEO, Calico","",71,2000,"","",""
+Tim Cook,"CEO, Apple","",61,2011,"","",""
+James Bell,"Former CFO and Corporate President, The Boeing Company","",73,2015,"","",""
+Al Gore,Former Vice President of the United States,"",73,2003,"","",""
+Alex Gorsky,"Executive Chair, Johnson & Johnson","",61,2021,"","",""
+Andrea Jung,"President and CEO, Grameen America","",63,2008,"",Chair,""
+Monica Lozano,"President and CEO, College Futures Foundation","",65,2021,"","",""
+Ron Sugar," Former Chair and CEO, Northrop Grumman Corporation","",73,2010, Chair,"",""
+Sue Wagner,"Co-founder and Director, BlackRock","",60,2014,"","",Chair
+
+
+
+Page: 12 -- Table: 1 of 2
+Audit Committee,Compensation Committee,Nominating Committee
+Enterprise Risk Management,Executive Compensation,Board Succession Planning
+Legal and Regulatory,People and Benefits,"Environmental, Social, and"
+"Finance, Treasury, and Tax",Equity Compensation Plans,Governance Reporting
+Privacy and Data Security,"",Shareholder Engagement
+Community Investments,"",""
+Lobbying Expenditures,"",""
+
+
+
+
+Page: 12 -- Table: 2 of 2
+Board Composition and Independence,Board and Committee Practices,Shareholder Rights
+All directors except CEO are independent,"Annual Board and committee evaluations, including one-on-one",Single class of stock with equal voting rights
+Separation of the Chair and CEO roles,interviews led by the Chair Director orientation and,Annual elections for all directors
+100% independent committees,continuing education,Majority voting standard
+Executive sessions provided for all quarterly Board and,All members of the Audit Committee are financial experts,for uncontested elections of directors
+committee meetings Mandatory retirement age,100% attendance by directors at Board and committee meetings,Proxy access for shareholders
+Limits on board member service on other public company boards,in 2021 Commitment to actively seeking highly qualified women and,Special meeting and written consent rights for shareholders
+Board has significant interaction with senior management and,individuals from underrepresented communities as potential nominees,""
+access to other employees,Robust stock ownership guidelines,""
+
+
+
+
+
+
+
+
+Page: 18 -- Table: 1 of 1
+One share equals one vote,We have a single class of shares with equal voting rights.
+Annual director elections,All directors are elected annually for a one-year term.
+Majority voting,We have a majority voting standard for uncontested elections of directors.
+Proxy access,Up to 20 shareholders owning at least 3% of shares continuously for three years may nominate up to 20% of our Board.
+Special meetings,Shareholders owning at least 10% of our outstanding shares have the right to call a special meeting of the shareholders.
+Separation of Chair and CEO roles,Our CEO is focused on managing Apple and our independent Chair drives accountability at the Board level.
+Financial expertise,All members of our Audit Committee qualify as audit committee financial experts.
+"Prohibitions on hedging, pledging, and other transactions","We prohibit short sales, transactions in derivatives, and hedging of Apple securities by directors, executive officers, and employees; and prohibit pledging of Apple securities by directors and executive officers."
+Stock ownership guidelines,We have robust stock ownership guidelines for our directors and executive officers.
+Succession planning,Our Board regularly reviews Board and executive succession planning.
+Continuing education and training,"Our Board regularly receives training and updates on ethics, compliance, and governance."
+Board and committee self-evaluations,"Our Board and committees conduct annual performance self-evaluations led by our independent Chair, including one-on-one interviews."
+
+
+
+
+Page: 20 -- Table: 1 of 1
+Audit Committee,"",Compensation Committee,"",Nominating Committee
+Primary responsibility for assisting the Board with risk oversight,"",Oversight of the design and administration of compensation programs and policies,"","Oversight of Board structure, governance, and independence"
+
+
+
+
+
+
+
+
+
+
+Page: 28 -- Table: 1 of 1
+"",Levinson,Cook,Bell,Gore,Gorsky,Jung,Lozano,Sugar,Wagner
+Core,"","","","","","","","",""
+Leadership,"","","","","","","","",""
+Corporate Governance,"","","","","","","","",""
+Risk Management,"","","","","","","","",""
+Financial,"","","","","","","","",""
+Strategic,"","","","","","","","",""
+Global Business and Operations,"","","","","","","","",""
+Brand and Marketing,"","","","","","","","",""
+People and Culture,"","","","","","","","",""
+Innovation and Technology,"","","","","","","","",""
+Environment and Climate,"","","","","","","","",""
+Public Policy and Government,"","","","","","","","",""
+Privacy and Security,"","","","","","","","",""
+Identity,"","","","","","","","",""
+Gender Expression,Male,Male,Male,Male,Male,Female,Female,Male,Female
+LGBTQ+,No,Yes,No,No,No,No,No,No,No
+Race/Ethnicity,White,White,Black,White,White,Asian,Latino Multiracial,White,White
+
+
+
+
+
+
+
+
+
+
+Page: 36 -- Table: 1 of 1
+Name,Fees Earned or Paid in Cash ($),Stock Awards ($)(1),All Other Compensation ($)(2),Total ($)
+James Bell,"100,000","249,958","3,694","353,652"
+Al Gore,"100,000","249,958","12,178","362,136"
+Andrea Jung,"130,000","249,958","12,424","392,382"
+Art Levinson,"300,000","249,958","6,798","556,756"
+Monica Lozano,"75,000","286,322","7,583","368,905"
+Ron Sugar,"135,000","249,958","15,187","400,145"
+Sue Wagner,"125,000","249,958","4,079","379,037"
+
+
+
+
+
+Page: 39 -- Table: 1 of 1
+Jeff Williams,""
+Chief Operating Officer,""
+
+
+
+
+
+Page: 42 -- Table: 1 of 1
+"Prohibition on hedging, pledging, and short sales","We prohibit short sales, transactions in derivatives, hedging, and pledging of Apple securities by our named executive officers."
+Stock ownership guidelines,"We have robust stock ownership guidelines for our named executive officers, including a 10 times annual base salary requirement for our CEO."
+Compensation clawback policy,"Our compensation clawback policy allows us to recover annual cash incentives, equity awards, or other amounts that may be paid in respect of awards in the event of certain events, including acts of misconduct by our named executive officers."
+No repricing,We do not allow repricing of stock options without shareholder approval.
+No change of control payments,We do not provide change of control payments or gross-ups of related excise taxes.
+Vesting requirements for dividend equivalents,"Dividend equivalents will not be paid unless the vesting and performance conditions for the RSUs, to which the rights attach, are met."
+At-will employment,We employ our named executive officers at-will; our named executive officers do not have employment contracts.
+No pension or other supplemental benefits,We do not provide pensions or supplemental executive health or insurance benefits.
+No significant perquisites,"We do not provide significant perquisites to our named executive officers. For security and efficiency purposes, Mr. Cook is provided personal security services and is required by the Board to use private aircraft for all business and personal travel."
+Annual compensation risk assessment,The Compensation Committee oversees an annual risk assessment of our compensation program.
+Independent compensation consultant,The Compensation Committee has directly retained an independent compensation consultant that performs no services for Apple other than services for the Compensation Committee.
+
+
+
+
+
+
+Page: 46 -- Table: 1 of 1
+Cumulative Total Shareholder Return,"+1,174%"
+Includes reinvestment of dividends,Apple Inc.
+
+
+
+Page: 47 -- Table: 1 of 2
+Relative TSR Percentile V. S&P 500 Companies,Performance-Based RSUs Vesting
+Top Third,100%
+Middle Third,50%
+Bottom Third,0%
+
+
+
+
+Page: 47 -- Table: 2 of 2
+"",Relative TSR Percentile Ranking for Three-Year Performance Period,TSR Results for Three-Year Performance Period
+Apple,97th Percentile,191.83%
+"",Top Third,>72.26%
+S&P 500 Companies,Middle Third,24.94-72.25%
+"",Bottom Third,<24.94%
+
+
+
+Page: 48 -- Table: 1 of 2
+"",Relative TSR Percentile Ranking for Three-Year Performance Period,TSR Results for Three-Year Performance Period
+Apple,99th Percentile,208.96%
+"",85th Percentile,77.54%
+S&P 500,55th Percentile,19.45%
+Companies,25th Percentile,-21.93%
+"",Below 25th,<-21.93%
+
+
+
+
+Page: 48 -- Table: 2 of 2
+"",Relative TSR Percentile Ranking for Three-Year Performance Period,TSR Results for Three-Year Performance Period
+Apple,99th Percentile,181.64%
+"",85th Percentile,69.20%
+S&P 500,55th Percentile,17.13%
+Companies,25th Percentile,-22.25%
+"",Below 25th,<-22.25%
+
+
+
+Page: 49 -- Table: 1 of 1
+Relative TSR Percentile V. S&P 500 Companies,Performance-Based RSUs Vesting As a Percentage of Target
+85th Percentile or above,200%
+55th Percentile,100%
+25th Percentile,25%
+Below 25th,0%
+
+
+
+
+Page: 51 -- Table: 1 of 1
+Alphabet,AT&T,Cisco,Disney,Intel,Microsoft,Oracle,Verizon
+Amazon,Charter,Comcast,IBM,Meta,Netflix,Qualcomm,Visa
+
+
+
+Page: 52 -- Table: 1 of 1
+3M,Boeing,General Electric,Nike,Pfizer,Tesla
+American Express,Coca-Cola,Johnson & Johnson,PepsiCo,Procter & Gamble,UnitedHealth Group
+
+
+
+
+
+Page: 55 -- Table: 1 of 1
+Name and Principal Position,Year,Salary ($),Bonus ($),Stock Awards1 ($),Non-Equity Incentive Plan Compensation(2) ($),All Other Compensation ($),Total ($)
+Tim Cook,2021,"3,000,000", -,"82,347,835","12,000,000","1,386,559(3)","98,734,394"
+Chief Executive Officer,2020,"3,000,000", -,O,"10,731,000","1,038,259","14,769,259"
+"",2019,"3,000,000", -,O,"7,671,000","884,466","11,555,466"
+Luca Maestri,2021,"1,000,000",-,"21,959,620","4,000,000","18,883(4)","26,978,503"
+"Senior Vice President, Chief Financial Officer",2020,"1,000,000", -,"21,657,687","3,577,000","18,583","26,253,270"
+"",2019,"1,000,000", -,"21,633,416","2,557,000","19,221","25,209,637"
+Kate Adams,2021,"1,000,000", -,"21,959,620","4,000,000","14,533(5)","26,974,153"
+"Senior Vice President, General Counsel and Secretary",2020,"1,000,000", -,"21,657,687","3,577,000","14,310","26,248,995"
+"",2019,"1,000,000",-,"21,633,416","2,557,000","41,384","25,231,800"
+Deirdre O'Brien,2021,"1,000,000", -,"21,959,620","4,000,000","61,191(6)","27,020,811"
+"Senior Vice President, Retail + People",2020,"1,000,000", -,"21,657,687","3,577,000","37,684","26,272,371"
+"",2019,"877,500", -,"16,469,527","1,795,000","17,753","19,159,780"
+Jeff Williams,2021,"1,000,000",-,"21,959,620","4,000,000","17,437(7)","26,977,057"
+Chief Operating Officer,2020,"1,000,000", -,"21,657,687","3,577,000","17,137","26,251,824"
+"",2019,"1,000,000", -,"21,633,416","2,557,000","17,503","25,207,919"
+
+
+
+
+Page: 57 -- Table: 1 of 2
+"","","",Assumptions,""
+Grant Date,Performance Period End Date,Expected Term (years),Expected Volatility,Risk-Free Interest Rate
+9/27/2020,9/30/2023,3.01,34.01%,0.15%
+
+
+
+
+Page: 57 -- Table: 2 of 2
+"","","",Estimated Under,Future Non-Equity Plan Awards,Payouts Incentive,Estimated Under,Future Equity Plan Awards,Payouts Incentive,All Other Stock Awards: Number of Shares of Stock,Grant Date Fair Value of Stock and
+Name (a),Award Type,Grant Date (b),Threshold ($)(c),Target ($)(d),Maximum ($)(e),Threshold (#)(f,Target (#)(g),Maximum (#)(h),or Units (#)(i),Option Awards(1) ($)(j)
+Tim Cook,Cash Incentive,-,"3,000,000","6,000,000","12,000,000","","","","",""
+"",Performance-based RSUs,9/27/2020,"","","","83,497","333,987","667,974","","44,847,774"
+"",Time-based RSUs,9/27/2020,"","","","","","","333,987","37,500,060"
+Luca Maestri,Cash Incentive,-,"1,000,000","2,000,000","4,000,000","","","","",""
+"",Performance-based RSUs,9/27/2020,"","","","22,266","89,064","178,128","","11,959,514"
+"",Time-based RSUs,9/27/2020,"","","","","","","89,064","10,000,106"
+Kate Adams,Cash Incentive,-,"1,000,000","2,000,000","4,000,000","","","","",""
+"",Performance-based RSUs,9/27/2020,"","","","22,266","89,064","178,128","","11,959,514"
+"",Time-based RSUs,9/27/2020,"","","","","","","89,064","10,000,106"
+Deirdre O'Brien,Cash Incentive,-,"1,000,000","2,000,000","4,000,000","","","","",""
+"",Performance-based RSUs,9/27/2020,"","","","22,266","89,064","178,128","","11,959,514"
+"",Time-based RSUs,9/27/2020,"","","","","","","89,064","10,000,106"
+Jeff Williams,Cash Incentive,-,"1,000,000","2,000,000","4,000,000","","","","",""
+"",Performance-based RSUs,9/27/2020,"","","","22,266","89,064","178,128","","11,959,514"
+"",Time-based RSUs,9/27/2020,"","","","","","","89,064","10,000,106"
+
+
+
+
+Page: 59 -- Table: 1 of 1
+Name (a),Grant Date (b),Number of Shares or Units of Stock That Have Not Vested (#)(c),Market Value of Shares or Units of Stock That Have Not Vested(1) ($)(d),"Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)(e)","Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(1) ($)(f)"
+Tim Cook,9/27/2020,"333,987(2)","49,069,370","333,987(3)(4)","49,069,370"
+Luca Maestri,10/15/2017,"84,932(5)","12,478,209",-,-
+"",9/30/2018,"118,128(6)","17,355,366","177,196(4)(7)","26,033,636"
+"",9/29/2019,"182,800(8)","26,856,976","182,800(4)(8)","26,856,976"
+"",9/27/2020,"89,064(2)","13,085,283","89,064(3)(4)","13,085,283"
+Kate Adams,9/30/2018,"118,128(6)","17,355,366","177,196(4)(7)","26,033,636"
+"",9/29/2019,"182,800(8)","26,856,976","182,800(4)(8)","26,856,976"
+"",9/27/2020,"89,064(2)","13,085,283","89,064(3)(4)","13,085,283"
+Deirdre O'Brien,10/15/2017,"22,292(9)","3,275,141",-,-
+"",9/30/2018,"49,836(10)","7,321,905", -, -
+"",2/5/2019,"63,792(11)","9,372,321","95,688(4)(11)","14,058,481"
+"",9/29/2019,"182,800(8)","26,856,976","182,800(4)(8)","26,856,976"
+"",9/27/2020,"89,064(2)","13,085,283","89,064(3)(4)","13,085,283"
+Jeff Williams,10/15/2017,"84,932(5)","12,478,209",-,-
+"",9/30/2018,"118,128(6)","17,355,366","177,196(4)(7)","26,033,636"
+"",9/29/2019,"182,800(8)","26,856,976","182,800(4)(8)","26,856,976"
+"",9/27/2020,"89,064(2)","13,085,283","89,064(3)(4)","13,085,283"
+
+
+
+Page: 60 -- Table: 1 of 1
+"",Stock Awards,""
+Name (a),Number of Shares Acquired on Vesting (#)(b),Value Realized on Vesting ($)(c)(1)
+Tim Cook,"5,040,000","754,084,800"
+Luca Maestri,"776,428","94,138,065"
+Kate Adams,"576,404","69,023,864"
+Deirdre O'Brien,"137,336","18,262,923"
+Jeff Williams,"776,428","94,138,065"
+
+
+
+Page: 61 -- Table: 1 of 1
+Name (a),Executive Contributions ($)(b)(1),Apple Contributions ($)(c),Aggregate Earnings ($)(d),Aggregate Withdrawals/ Distributions ($)(e),"Aggregate Balance at September 25, 2021 ($)(f"
+Kate Adams,"536,550(2)",-,"264,051",-,"1,599,237(3)"
+
+
+
+Page: 62 -- Table: 1 of 1
+Name,Estimated Total Value of Equity Acceleration upon Death(1) ($),Estimated Total Value of Equity Acceleration upon Disability(1) ($)
+Tim Cook,"148,059,777","148,059,777"
+Luca Maestri,"168,474,466","117,337,786"
+Kate Adams,"155,735,090","111,194,893"
+Deirdre O'Brien,"134,038,409","88,404,876"
+Jeff Williams,"168,474,466","117,337,786"
+
+
+
+
+
+
+
+Page: 67 -- Table: 1 of 1
+Ernst & Young,2021 ($),2020 ($)
+Audit Fees(1),"17,683,114","17,568,300"
+Audit-Related Fees(2),"1,161,409","935,900"
+Tax Fees(3),"3,662,997","3,382,300"
+All Other Fees(4),"715,310","297,400"
+Total,"23,222,830","22,183,900"
+
+
+
+
+Page: 69 -- Table: 1 of 1
+Fiscal Year,Basic Weighted Average Shares Outstanding,RSU Awards Granted,Stock Options Granted,Annualized Burn Rate(1)
+2019,"18,471,336,000","147,409,000", O,2.0%
+2020,"17,352,119,000","156,800,000",O,2.26%
+2021,"16,701,272,000","89,363,000", O,1.34%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page: 105 -- Table: 1 of 1
+Apple's financial statements and,"the independent auditors,",treasury and finance matters;
+other financial information provided by Apple to its shareholders,including their qualifications and independence;,"enterprise risk management, privacy, and data security;"
+"and others; compliance with legal, regulatory, and public disclosure requirements;","Apple's system of internal controls, including the internal audit function;","and the auditing, accounting, and financial reporting process generally."
+
+
+
+Page: 106 -- Table: 1 of 1
+Name of Beneficial Owner,Shares of Common Stock Beneficially Owned(1),Percent of Common Stock Outstanding
+The Vanguard Group,"1,255,155,794(2)",7.68%
+"BlackRock, Inc.","1,057,340,486(3)",6.47%
+Berkshire Hathaway Inc. / Warren E. Buffett,"907,559,761(4",5.56%
+Kate Adams,"445,993(5)",*
+James Bell,"36,266(6)",*
+Tim Cook,"3,279,726(7)",*
+Al Gore,"465,458(8)",*
+Alex Gorsky,486(9),*
+Andrea Jung,"139,594(10)",*
+Art Levinson,"4,590,710(11)",*
+Monica Lozano,"3,554(12)",*
+Luca Maestri,"110,501(13)",*
+Deirdre O'Brien,"136,118(14)",*
+Ron Sugar,"104,258(15)",*
+Sue Wagner,"63,838(16)",*
+Jeff Williams,"489,490(17",*
+All current executive officers and directors as a group (13 persons),"9,865,992(18)",*
+
+
+
+
+Page: 108 -- Table: 1 of 1
+"","Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (a)","Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights(1) ($)(b)",Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) (c)
+Equity compensation plans approved by shareholders(2),"240,713,621(3)",5.35,"860,666,447(4)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
